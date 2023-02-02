@@ -1,0 +1,9 @@
+matplotlib 
+scipy
+numpy
+ipykernel
+ipywidgets
+tqdm 
+pillow
+jupyter
+jupyterlab-katex
