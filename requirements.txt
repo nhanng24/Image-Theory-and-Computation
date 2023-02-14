@@ -6,4 +6,4 @@ ipywidgets
 tqdm 
 pillow
 jupyter
-jupyterlab-katex
+scikit-image
